@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I read the geologic record like a photo book, watching time and space shift from one layer to the next. On foot, across the water, or from the air, I map, log, and correlate sediments and landforms, then glue those snapshots into a time framework with high-precision geochronometers to tell the story of how wind, water, and ice reshaped the landscape.
+We read the geologic record like a photo book, watching time and space shift from one layer to the next. On foot, across the water, or from the air, we map, log, and correlate sediments and landforms, then glue those snapshots into a time framework with high-precision geochronometers to tell the story of how wind, water, and ice reshaped the landscape.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
