@@ -432,8 +432,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "projects-past-hydroclimate-of-the-western-united-states",
-          title: 'Past Hydroclimate of the Western United States',
+            },},{id: "projects-hydroclimate-of-the-western-united-states",
+          title: 'Hydroclimate of the Western United States',
           description: "stratigraphy + geomorphology + geochronology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
