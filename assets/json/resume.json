@@ -1,12 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Guleed A. Ali",
+    "label": "Geologist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "guleed.ali@stonybrook.edu",
+    "phone": "631-632-1424",
+    "url": "https://www.stonybrook.edu/commcms/geosciences/people/_faculty/ali.php",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
