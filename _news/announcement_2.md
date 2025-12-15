@@ -10,19 +10,19 @@ The Landscape Archives and Earth Systems (LAYERS) Group is recruiting. We are a 
 
 ---
 
-We welcome creative, outside-the-box directions and collaborations. We are building a diverse, multidisciplinary group that uses fieldwork and high-precision geochronology as a springboard for new ideas. We want to learn how past climate and Earth systems ticked--and what those records signal for the future of the planet's residents, human and not.
+We welcome creative, outside-the-box directions and collaborations. We are building a diverse, multidisciplinary group that uses fieldwork and high-precision geochronology as a springboard for new ideas. Our goal is to learn how past climate and Earth systems ticked--and what those records signal for the future of the planet's residents, human and not.
 
-We seek graduate students to join our research program that targets these frontiers:
+We are recruiting graduate students to join a research program focused on:
 
-1. Revealing previously unrecognized ice sheet and mountain glacier responses to climate shifts.
+1. Previously unrecognized ice sheet and mountain glacier responses to climate shifts.
 
-2. Tracing abrupt rainbelt migrations--and their ecological and cultural consequences--across the mid-latitudes and tropics
+2. Abrupt rainbelt migrations--and their ecological and cultural consequences--across the mid-latitudes and tropics
 
-3. Using cave speleothems to track past climate and environmental change
+3. Cave speleothems as archives of past climate and environmental change
 
 4. Reconstructions of past sea level
 
-5. Probing the interplay between teconics, volcanism, and climate
+5. The interplay between teconics, volcanism, and climate
 
-These frontiers reflect our current directions, not the limits of where we can go. Students are encouraged to explore and help shape new research directions for the group.  
+These themes reflect current directions, not the limits of where we can go. Students are encouraged to explore, bring their own questions, and help shape new research directions for the group.
 
