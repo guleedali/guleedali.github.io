@@ -4,7 +4,7 @@ title: Hydroclimate of the Western United States
 description: stratigraphy + geomorphology + geochronology
 img: assets/img/Bonnevilleshorelines.jpg
 importance: 1
-category: work
+category: active
 related_publications: true
 ---
 The formation of vast lakes in the arid basins of the western United States marks a major hydroclimatic change of the Quaternary. These lakes serve as natural rain gauges, recording dramatic fluctuations in water availability, evident from shorelines carved tens to hundreds of meters above modern valley floors.
