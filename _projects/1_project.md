@@ -2,7 +2,7 @@
 layout: page
 title: Hydroclimate of the Western United States
 description: stratigraphy + geomorphology + geochronology
-img: assets/img/Mill Creek delta.jpg
+img: assets/img/Great Basin 1000 DPI.jpg
 importance: 1
 category: work
 related_publications: true
