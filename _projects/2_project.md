@@ -4,7 +4,7 @@ title: North American Glacial Chronologies
 description: stratigraphy + geochronology + geomorphology
 img: assets/img/SierraNevadasnow.jpg
 importance: 1
-category: new directions
+category: active
 giscus_comments: false
 ---
 
