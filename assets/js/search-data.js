@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "LAYERS frontiers.",
+          description: "What are we trying to understand?",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -416,8 +416,8 @@ ninja.data = [{
           description: "stratigraphy + geomorphology + geochronology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-north-american-glacial-chronologies",
-          title: 'North American Glacial Chronologies',
+            },},{id: "projects-the-rise-and-fall-of-ice-across-north-america",
+          title: 'The rise and fall of ice across North America',
           description: "stratigraphy + geochronology + geomorphology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
