@@ -9,7 +9,7 @@ related_publications: true
 ---
 The formation of vast lakes in the arid basins of the western United States marks a major hydroclimatic change of the Quaternary. These lakes serve as natural rain gauges, recording dramatic fluctuations in water availability, evident from shorelines carved tens to hundreds of meters above modern valley floors.
 
-This project will map regional changes in wetness from the last glaciation through the present  interglaciation (about 70,000 years ago to present). Students will use sedimentology and stratigraphy with geochronologic tools to reconstruct when lake levels rose and fell, and to test whether these shifts happened gradually or suddenly. This work is anchored in field campaigns and mapping. Other complementary avenues using remote sensing and GIS can match a range of intersts and access needs. 
+This project will map regional changes in wetness from the last glaciation through the present  interglaciation (about the last 70,000 years). Students will use sedimentology and stratigraphy with geochronologic tools to reconstruct when lake levels rose and fell, and to test whether these shifts happened gradually or suddenly. This work is anchored in field campaigns and mapping. Other complementary avenues using remote sensing and GIS can match a range of intersts and access needs. 
 
 
 <div class="row">
