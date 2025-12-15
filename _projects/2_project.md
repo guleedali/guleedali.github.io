@@ -4,8 +4,8 @@ title: North American Glacial Chronologies
 description: stratigraphy + geochronology + geomorphology
 img: assets/img/SierraNevadasnow.jpg
 importance: 1
-category: work
-giscus_comments: true
+category: new directions
+giscus_comments: false
 ---
 
 New collaborative research group emerging centered on conflicting signals in glacial chronologies. Check back in early 2026 for updates. 
