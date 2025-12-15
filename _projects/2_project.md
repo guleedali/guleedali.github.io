@@ -1,6 +1,6 @@
 ---
 layout: page
-title: North American Glacial Chronologies
+title: North American glacial chronologies
 description: stratigraphy + geochronology + geomorphology
 img: assets/img/SierraNevadasnow.jpg
 importance: 1
