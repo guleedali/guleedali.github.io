@@ -21,13 +21,14 @@ This project will map regional changes in wetness from the last glaciation throu
     The Wilson Creek Formation: the Late Pleistocene lithostratigraphic unit of the Mono Basin, California. Outreached arm points to the MIS 5-4 boundary--i.e., the start of the last glaciation. See Ali et al. (2022). 
 </div>
 
-Being in the rainshadow of mountain ranges offers some reprieve from cool season westerly storms, extending the field season into the early winter--even for high elevation basins like Mono.
+Being in the rainshadow of western U.S. mountain ranges offers some reprieve from cool season westerly storms, often extending the field season into the early winter, even in high elevation basins such as Mono.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/PlanetMono.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
     A view of Mono Lake during the early winter field season.
 </div>
 
