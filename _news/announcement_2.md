@@ -22,7 +22,7 @@ We are recruiting graduate students to join a research program focused on:
 
 4. Reconstructions of past sea level
 
-5. The interplay between teconics, volcanism, and climate
+5. The interplay between tectonics, volcanism, and climate
 
 These themes reflect current directions, not the limits of where we can go. Students are encouraged to explore, bring their own questions, and help shape new research directions for the group.
 
