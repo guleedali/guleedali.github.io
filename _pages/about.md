@@ -28,4 +28,3 @@ latest_posts:
 ---
 In the LAYERS group, we read the geologic record like a photo album, watching time and space shift from one layer to the next. On foot, across the water, or from the air, we map, log, and correlate sediments and landforms, then stitch those snapshots into a time framework with high-precision geochronology to tell the story of how wind, water, and ice reshaped the landscape.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
