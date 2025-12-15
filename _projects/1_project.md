@@ -28,6 +28,6 @@ Being in the rainshadow of mountain ranges offers some reprieve from cool season
         {% include figure.liquid loading="eager" path="assets/img/PlanetMono.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-    A view of Mono Lake during the early winter field season.  Planet Mono (left) during the , like these.
+    A view of Mono Lake during the early winter field season.
 </div>
 
