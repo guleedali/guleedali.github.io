@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: LAYERS frontiers.
+description: What are we trying to understand?
 nav: true
 nav_order: 3
 display_categories: [active, new directions]
