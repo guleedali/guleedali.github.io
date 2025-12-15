@@ -437,8 +437,8 @@ ninja.data = [{
           description: "stratigraphy + geomorphology + geochronology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-conflicting-signals-in-north-american-glacial-chronologies",
-          title: 'Conflicting Signals in North American Glacial Chronologies',
+            },},{id: "projects-north-american-glacial-chronologies",
+          title: 'North American Glacial Chronologies',
           description: "stratigraphy + geochronology + geomorphology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
