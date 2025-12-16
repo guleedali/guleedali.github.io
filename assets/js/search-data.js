@@ -31,8 +31,8 @@ ninja.data = [{
             },},{id: "news-guleed-a-starts-new-position-as-assistant-professor-at-stony-brook-university",
           title: 'Guleed A. starts new position as Assistant Professor at Stony Brook University.',
           description: "",
-          section: "News",},{id: "news-graduate-student-opportunities",
-          title: 'Graduate student opportunities',
+          section: "News",},{id: "news-open-phd-positions",
+          title: 'Open PhD positions',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
