@@ -2,7 +2,7 @@
 layout: page
 title: When Ice Sheets Broke the Rules
 description: stratigraphy + geochronology + glacial geomorphology
-img: assets/img/Malaspina.jpg
+img: assets/img/malaspina.jpg
 importance: 1
 category: active
 giscus_comments: false
