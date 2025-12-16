@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ice Age Puzzle: When Ice Sheets Broke the Rules
+title: When Ice Sheets Broke the Rules
 description: stratigraphy + geochronology + glacial geomorphology
 img: assets/img/Malaspina.jpg
 importance: 1
