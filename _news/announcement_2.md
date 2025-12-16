@@ -8,7 +8,7 @@ related_posts: false
 
 The Landscape Archives and Earth Systems (LAYERS) Group is recruiting. We are a new research group in the Department of Geosciences, Stony Brook University, working in partnership with the FIRST Lab (PI: Dr. Troy Rasbury).  
 
----
+
 
 We welcome creative, outside-the-box directions and collaborations. We are building a diverse, multidisciplinary group that uses fieldwork and high-precision geochronology as a springboard for new ideas. Our goal is to learn how past climate and Earth systems ticked--and what those records signal for the future of the planet's residents, human and not.
 
