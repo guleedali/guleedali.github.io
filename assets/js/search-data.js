@@ -41,8 +41,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "projects-hydroclimate-of-the-western-united-states",
-          title: 'Hydroclimate of the Western United States',
+            },},{id: "projects-lakes-as-rain-gauges",
+          title: 'Lakes as Rain Gauges',
           description: "stratigraphy + geomorphology + geochronology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
