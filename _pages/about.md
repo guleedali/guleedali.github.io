@@ -6,7 +6,7 @@ subtitle: <a href='#'>Earth history, one layer at a time</a>.
 
 profile:
   align: right
-  image: assets/img/guleedheadshotv3-1_BW.jpg
+  image: guleedheadshotv3-1_BW.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>340 Earth & Space Science Bldg</p>
