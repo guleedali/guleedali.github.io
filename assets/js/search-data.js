@@ -46,9 +46,9 @@ ninja.data = [{
           description: "stratigraphy + geomorphology + geochronology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-the-rise-and-fall-of-ice-across-north-america",
-          title: 'The rise and fall of ice across North America',
-          description: "stratigraphy + geochronology + geomorphology",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
