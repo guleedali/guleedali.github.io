@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: What are we trying to understand?
+description: Reconstructing how water, ice, and fire reshaped landscapes, and how abruptly. Each project pairs field mapping with high-precision geochronology and isotope geochemistry.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [active, new directions]
 horizontal: false
 ---
