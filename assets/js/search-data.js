@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "What are we trying to understand?",
+          description: "Reconstructing how water, ice, and fire reshaped landscapes, and how abruptly. Each project pairs field mapping with high-precision geochronology and isotope geochemistry.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
