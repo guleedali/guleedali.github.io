@@ -26,8 +26,8 @@ Deglacial chronology of the Laurentide Ice Sheet on Long Island, New York. GSA N
 
 ### Alumni
 
-None yet. 
+None yet. The group was founded in 2025.
 
 ---
 
-Interested in joining? Email guleed at stonybrook.edu with a short statement of your scientific interest or thoughts. Guleed is happy to support fellowship applications (e.g., NSF GRFP). 
+Interested in joining? Email Guleed with a short statement of your scientific interests.
