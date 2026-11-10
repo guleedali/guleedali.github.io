@@ -39,10 +39,10 @@ The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, 
 
 We read the geologic record like a photo album, watching time and space shift from one layer to the next. On foot, across the water, or from the air, we map, log, and correlate sediments and landforms, then stitch those snapshots into a time framework with high-precision geochronology. We work in the Great Basin, the Grand Canyon region, on Long Island, and in northwest Washington.
 
-**What we measure.** We work in Stony Brook's isotope geochemistry facility (FIRST Lab), which houses a Nu Plasma 3 multi-collector ICP-MS, an Agilent 8900 triple-quadrupole ICP-MS, and two IsotopX Phoenix thermal ionization mass spectrometers. We measure boron isotopes (δ<sup>11</sup>B) in waters, carbonates, and plant material, trace elements and rare earth elements in natural waters and digests, and U-Pb ages in carbonates and accessory minerals. U-series geochronology is in development. Our published δ<sup>11</sup>B work spans lake waters, spring waters, and carbonates (see [Publications](/publications/)).
+**What we measure.** We work in Stony Brook's isotope geochemistry facility (FIRST Lab), which houses a Nu Plasma 3 multi-collector ICP-MS, an Agilent 8900 triple-quadrupole ICP-MS, and two IsotopX Phoenix thermal ionization mass spectrometers. We measure boron isotopes (δ<sup>11</sup>B) in waters, carbonates, and plant material, trace elements and rare earth elements in natural waters, sediments, and carbonates, and U-Pb ages in carbonates and accessory minerals. U-series geochronology is in development.
 
 **Current directions.** Hydroclimate · glacier and ice-sheet chronologies · boron isotope geochemistry of lakes and springs · isotope geochemistry of wildfire (in development). See [Projects](/projects/).
 
 We welcome creative ideas, unconventional directions, and collaborations that challenge standard approaches and wisdom.
 
-**Joining the group.** We are recruiting PhD students for Fall 2027. See [News](/news/) for the current call and deadline.
+**Joining the group.** Students interested in graduate study and prospective postdoctoral researchers should email Guleed with a short statement of their scientific interests.
