@@ -21,13 +21,13 @@ MS, University of KwaZulu-Natal, South Africa.
 
 ### Undergraduate researchers
 
-**Laila Elbaroudy** · Undergraduate Senior
+**Laila Elbaroudy** · Undergraduate researcher
 Deglacial chronology of the Laurentide Ice Sheet on Long Island, New York. GSA Northeastern Section Undergraduate Research Grant (2026); presented at GSA Connects 2026.
 
 ### Alumni
 
-None yet. The group was founded in 2025.
+None yet. 
 
 ---
 
-Interested in joining? Email Guleed with a short statement of your scientific interests.
+Interested in joining? Email guleed at stonybrook.edu with a short statement of your scientific interest or thoughts. Guleed is happy to support fellowship applications (e.g., NSF GRFP). 
