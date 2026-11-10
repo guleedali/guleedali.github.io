@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "The LAYERS group, founded 2025.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-publications",
           title: "publications",
           description: "Peer-reviewed papers and selected abstracts, newest first.",
@@ -88,11 +95,6 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
