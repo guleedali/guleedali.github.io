@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, ice, and fire have reshaped landscapes over the last several hundred thousand years, and how abruptly those changes occurred.
+The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, ice, and fire have reshaped landscapes through geologic time, and how abruptly those changes occurred.
 
-We map and date sediments and landforms in the Great Basin, the Grand Canyon region, Long Island, and northwest Washington, and we measure boron isotopes (δ<sup>11</sup>B), trace elements, and U-Pb ages in Stony Brook's FIRST Lab (MC-ICP-MS, triple-quadrupole ICP-MS, TIMS).
+We read the geologic record like a photo album: we map, log, and correlate sediments and landforms across the United States, then stitch those snapshots into a time framework with high-precision geochronology. The group is based in Stony Brook's Facility for Isotope Research and Student Training (FIRST), co-led by Troy Rasbury and Guleed Ali. We run a highly versatile isotope lab equipped to analyze a wide suite of elements and isotopes in natural waters, minerals, whole rocks, sediments, and plant tissue. Our strengths include U-Pb geochronology of carbonates and boron isotope geochemistry, and we are building capacity for U-series dating. Instruments include a Nu Plasma 3 multi-collector ICP-MS, an Agilent 8900 triple-quadrupole ICP-MS, and two IsotopX Phoenix TIMS, supported by class 100 and class 1000 clean labs.
 
-**Current directions.** Hydroclimate · glacier and ice-sheet chronologies · boron isotope geochemistry · isotope geochemistry of wildfire (in development). See [Projects](/projects/).
+**Current directions.** Abrupt climate change · glacier and ice-sheet chronologies · boron isotope geochemistry · isotope geochemistry of wildfire (in development). See [Projects](/projects/).
 
 **Recent.** Carbonate U/Th ages confirm the Mono Basin excursion as the Laschamps geomagnetic excursion ([GSA Bulletin, 2026](https://doi.org/10.1130/B38358.1)).
 
