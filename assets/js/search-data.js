@@ -55,6 +55,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-layers-gsa-connects-2026",
+          title: 'LAYERS @ GSA Connects 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "projects-lakes-as-rain-gauges",
           title: 'Lakes as Rain Gauges',
           description: "stratigraphy + geomorphology + geochronology",
