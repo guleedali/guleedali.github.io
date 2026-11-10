@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Peer-reviewed papers and selected abstracts, newest first.",
+          description: "Peer-reviewed papers, newest first.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
