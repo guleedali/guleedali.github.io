@@ -31,9 +31,9 @@ The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, 
 
 We read the geologic record like a photo album, watching time and space shift from one layer to the next. On foot, across the water, or from the air, we map, log, and correlate sediments and landforms, then stitch those snapshots into a time framework with high-precision geochronology.
 
-**What we measure.** U-series and other radiometric chronologies by TIMS and MC-ICP-MS; boron isotopes (δ<sup>11</sup>B) and trace elements in waters, carbonates, and biomass by MC-ICP-MS and triple-quadrupole ICP-MS (Agilent 8900). The group is part of Stony Brook's isotope geochemistry facility (FIRST Lab) and collaborates with Brookhaven National Laboratory's NSLS-II.
+**What we measure.** We work in Stony Brook's isotope geochemistry facility (FIRST Lab), which houses a Nu Plasma 3 multi-collector ICP-MS, an Agilent 8900 triple-quadrupole ICP-MS, and two IsotopX Phoenix thermal ionization mass spectrometers. We measure boron isotopes (δ<sup>11</sup>B) in waters, carbonates, and plant material, trace elements and rare earth elements in natural waters and digests, and U-Pb ages in carbonates and accessory minerals. U-series geochronology is in development. Our published δ<sup>11</sup>B work spans lake waters, spring waters, and carbonates (see [Publications](/publications/)).
 
-**Current directions.** Pluvial lakes as rain gauges · ice-sheet chronology · boron isotope geochemistry of lakes and springs · geochemical signatures of wildfire (in development). See [Projects](/projects/).
+**Current directions.** Hydroclimate · glacier and ice-sheet chronologies · boron isotope geochemistry of lakes and springs · isotope geochemistry of wildfire (in development). See [Projects](/projects/).
 
 We welcome creative ideas, unconventional directions, and collaborations that challenge standard approaches and wisdom.
 
