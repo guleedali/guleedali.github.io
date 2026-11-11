@@ -51,15 +51,15 @@ ninja.data = [{
             },},{id: "news-nu-instruments-was-on-site-in-july-2026-to-upgrade-our-multi-collector-icp-ms-we-now-have-a-nu-plasma-3-yay",
           title: 'Nu Instruments was on site in July 2026 to upgrade our multi-collector ICP-MS....',
           description: "",
+          section: "News",},{id: "news-agilent-delivered-and-installed-our-new-8900-triple-quadrupole-icp-ms-in-august-2026-and-it-is-running-smoothly-we-welcome-inquiries-from-anyone-interested-in-analyses-get-in-touch-by-email",
+          title: 'Agilent delivered and installed our new 8900 triple-quadrupole ICP-MS in August 2026, and...',
+          description: "",
           section: "News",},{id: "news-layers-gsa-connects-2026",
           title: 'LAYERS @ GSA Connects 2026',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "news-agilent-delivered-and-installed-our-new-8900-triple-quadrupole-icp-ms-in-august-2026-and-it-is-running-smoothly-we-welcome-inquiries-from-anyone-interested-in-analyses-get-in-touch-by-email",
-          title: 'Agilent delivered and installed our new 8900 triple-quadrupole ICP-MS in August 2026, and...',
-          description: "",
-          section: "News",},{id: "projects-lakes-as-rain-gauges",
+            },},{id: "projects-lakes-as-rain-gauges",
           title: 'Lakes as Rain Gauges',
           description: "stratigraphy + geomorphology + geochronology",
           section: "Projects",handler: () => {
