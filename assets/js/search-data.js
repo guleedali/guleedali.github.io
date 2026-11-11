@@ -48,7 +48,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-layers-gsa-connects-2026",
+            },},{id: "news-nu-instruments-was-on-site-in-july-2026-to-upgrade-our-multi-collector-icp-ms-we-now-have-a-nu-plasma-3-yay",
+          title: 'Nu Instruments was on site in July 2026 to upgrade our multi-collector ICP-MS....',
+          description: "",
+          section: "News",},{id: "news-layers-gsa-connects-2026",
           title: 'LAYERS @ GSA Connects 2026',
           description: "",
           section: "News",handler: () => {
