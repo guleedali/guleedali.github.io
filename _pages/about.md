@@ -3,7 +3,7 @@ The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, 
 #### Active research questions
 
 - **[Hydroclimate dynamics](/projects/1_project/):** How did rain belts shift across the western United States during the Pleistocene?
-- **Ice-sheet chronologies:** When did the [Laurentide](/projects/2_project/) and [Cordilleran](/projects/3_project/) ice sheets reach their maximum limits, and why do dating methods disagree?
+- **Ice-sheet chronologies:** When did the [Laurentide](/projects/2_project/) and [Cordilleran](/projects/3_project/) ice sheets reach their maximum limits, and why do dating methods disagree? (_Funded by WA State & USGS_)
 - **[Isotope geochemistry of wildfire](/projects/4_project/) (in development):** Can fire leave an isotopic fingerprint that survives in waters and sediments?
 
 #### Facility and analytical capabilities
