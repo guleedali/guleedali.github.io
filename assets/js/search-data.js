@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "Reconstructing how water, ice, and fire reshaped landscapes, and how abruptly. Each project pairs field mapping with high-precision geochronology and isotope geochemistry.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-people",
+  },{id: "nav-people",
           title: "people",
           description: "The LAYERS group, founded 2025.",
           section: "Navigation",
