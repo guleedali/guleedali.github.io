@@ -53,7 +53,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "projects-lakes-as-rain-gauges",
+            },},{id: "news-agilent-delivered-and-installed-our-new-8900-triple-quadrupole-icp-ms-in-august-2026-and-it-is-running-smoothly-we-welcome-inquiries-from-anyone-interested-in-analyses-get-in-touch-by-email",
+          title: 'Agilent delivered and installed our new 8900 triple-quadrupole ICP-MS in August 2026, and...',
+          description: "",
+          section: "News",},{id: "projects-lakes-as-rain-gauges",
           title: 'Lakes as Rain Gauges',
           description: "stratigraphy + geomorphology + geochronology",
           section: "Projects",handler: () => {
