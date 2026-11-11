@@ -6,7 +6,7 @@ subtitle: Earth history, one layer at a time.
 
 profile:
   align: right
-  image: guleedheadshotv3-1_BW.jpg
+  image: guleed_ali.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>340 Earth & Space Science Bldg</p>
