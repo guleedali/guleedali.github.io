@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='/projects/'>Earth history, one layer at a time</a>.
+subtitle: Landscape Archives and Earth Systems · <a href='/projects/'>Earth history, one layer at a time</a>.
 
 profile:
   align: right
@@ -27,13 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, ice, and fire have reshaped landscapes over the last several hundred thousand years, and how abruptly those changes occurred.
+We reconstruct how water, ice, and fire have reshaped landscapes over the last several hundred thousand years, and how abruptly those changes occurred. We map and date sediments and landforms in the Great Basin, the Grand Canyon region, Long Island, and northwest Washington.
 
-We map and date sediments and landforms in the Great Basin, the Grand Canyon region, Long Island, and northwest Washington.
+**Current questions.**
 
-We work in Stony Brook's FIRST isotope facility, co-led by Troy Rasbury and Guleed Ali, analyzing natural waters, minerals, rocks, sediments, and plant tissue. Our strengths are **boron isotopes (δ<sup>11</sup>B)** and **U-Pb dating of carbonates**, with U-series dating in development. Instruments: MC-ICP-MS, triple-quadrupole ICP-MS, and TIMS, with class 100 and class 1000 clean labs.
+- **[Hydroclimate](/projects/1_project/):** How far and how fast did rainfall shift across the western United States during the last glaciation?
+- **Ice sheets:** When did the [Laurentide](/projects/2_project/) and [Cordilleran](/projects/3_project/) ice sheets reach their limits, and why do dating methods disagree?
+- **Boron isotopes:** What does δ<sup>11</sup>B record about how water moves through lakes, springs, and catchments?
+- **[Wildfire](/projects/4_project/) (in development):** Can fire leave an isotopic fingerprint that survives in waters and sediments?
 
-**Current directions.** Hydroclimate · glacier and ice-sheet chronologies · boron isotope geochemistry · isotope geochemistry of wildfire (in development). See [Projects](/projects/).
+**Facility.** Stony Brook's FIRST isotope facility, co-led by Troy Rasbury and Guleed Ali.
+
+- **Strengths:** boron isotopes (δ<sup>11</sup>B) · U-Pb dating of carbonates · U-series dating in development
+- **Mass spectrometry:** Nu Plasma 3 MC-ICP-MS · Agilent 8900 triple-quadrupole ICP-MS · two IsotopX Phoenix TIMS
+- **Clean labs:** class 100 and class 1000
+- **Materials:** natural waters, minerals, rocks, sediments, plant tissue
 
 **Recent.** Carbonate U/Th ages confirm the Mono Basin excursion as the Laschamps geomagnetic excursion ([GSA Bulletin, 2026](https://doi.org/10.1130/B38358.1)).
 
