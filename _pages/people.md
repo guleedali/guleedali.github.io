@@ -11,18 +11,45 @@ We welcome creative, outside-the-box directions and collaborations. We are build
 
 ### Principal investigator
 
-**Guleed A. Ali** · Assistant Professor, Department of Geosciences, Stony Brook University
-Quaternary geology, geochronology, and isotope geochemistry. [CV](/assets/pdf/2026.Nov.CV.GuleedAli.pdf) · [Google Scholar](https://scholar.google.com/citations?user=jm7O1P0AAAAJ) · [ORCID](https://orcid.org/0009-0008-0347-3635)
+<div class="row mb-4">
+  <div class="col-4 col-sm-3">
+    <img class="img-fluid rounded z-depth-1" style="aspect-ratio: 1/1; object-fit: cover; width: 100%;" src="{{ '/assets/img/guleed_ali.jpg' | relative_url }}" alt="Guleed A. Ali">
+  </div>
+  <div class="col-8 col-sm-9">
+    <strong>Guleed A. Ali</strong><br>
+    Assistant Professor, Department of Geosciences, Stony Brook University<br>
+    Quaternary geology, geochronology, and isotope geochemistry.<br>
+    <a href="{{ '/assets/pdf/2026.Nov.CV.GuleedAli.pdf' | relative_url }}">CV</a> ·
+    <a href="https://scholar.google.com/citations?user=jm7O1P0AAAAJ">Google Scholar</a> ·
+    <a href="https://orcid.org/0009-0008-0347-3635">ORCID</a>
+  </div>
+</div>
 
 ### Graduate students
 
-**Zahra Omarjee** · PhD student (joined 2026)
-MS, University of KwaZulu-Natal, South Africa.
+<div class="row mb-4">
+  <div class="col-4 col-sm-3">
+    <img class="img-fluid rounded z-depth-1" style="aspect-ratio: 1/1; object-fit: cover; width: 100%;" src="{{ '/assets/img/zahra_omarjee.jpg' | relative_url }}" alt="Zahra Omarjee">
+  </div>
+  <div class="col-8 col-sm-9">
+    <strong>Zahra Omarjee</strong><br>
+    PhD student (joined 2026)<br>
+    MS, University of KwaZulu-Natal, South Africa.
+  </div>
+</div>
 
 ### Undergraduate researchers
 
-**Laila Elbaroudy** · Undergraduate researcher
-Deglacial chronology of the Laurentide Ice Sheet on Long Island, New York. GSA Northeastern Section Undergraduate Research Grant (2026); presented at GSA Connects 2026.
+<div class="row mb-4">
+  <div class="col-4 col-sm-3">
+    <img class="img-fluid rounded z-depth-1" style="aspect-ratio: 1/1; object-fit: cover; width: 100%;" src="{{ '/assets/img/laila_elbaroudy.jpg' | relative_url }}" alt="Laila Elbaroudy">
+  </div>
+  <div class="col-8 col-sm-9">
+    <strong>Laila Elbaroudy</strong><br>
+    Undergraduate researcher<br>
+    Deglacial chronology of the Laurentide Ice Sheet on Long Island, New York. GSA Northeastern Section Undergraduate Research Grant (2026); presented at GSA Connects 2026.
+  </div>
+</div>
 
 ### Alumni
 
