@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, ice, and fire reshape landscapes through geologic time, and how abruptly those shifts occur. We read the geologic record by mapping, logging, and dating sediments and landforms.
+The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, ice, and fire reshape landscapes through geologic time, and how abruptly those shifts occur. We read the geologic record by mapping, logging, and dating sediments and landforms, and we interpret isotopic and elemental data in that field context.
 
 #### Active research questions
 
