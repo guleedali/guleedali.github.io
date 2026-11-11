@@ -48,7 +48,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-nu-instruments-was-on-site-in-july-2026-to-upgrade-our-multi-collector-icp-ms-we-now-have-a-nu-plasma-3-yay",
+            },},{id: "news-nu-instruments-was-on-site-in-july-2026-to-upgrade-our-multi-collector-icp-ms-we-now-have-a-nu-plasma-3",
           title: 'Nu Instruments was on site in July 2026 to upgrade our multi-collector ICP-MS....',
           description: "",
           section: "News",},{id: "news-agilent-delivered-and-installed-our-new-8900-triple-quadrupole-icp-ms-in-august-2026-and-it-is-running-smoothly-we-welcome-inquiries-from-anyone-interested-in-analyses-get-in-touch-by-email",
