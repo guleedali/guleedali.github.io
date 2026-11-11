@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, ice, and fire reshape landscapes through geologic time, and how abruptly those shifts occur. We read the geologic record by mapping, logging, and dating sediments and landforms, and we interpret isotopic and elemental data in that field context.
+The LAYERS group (Landscape Archives and Earth Systems) reconstructs how water, ice, and fire reshape landscapes through geologic time, and how abruptly those shifts occur. We read the geologic record by mapping, logging, and dating sediments and landforms, and we interpret isotopic and elemental data within that field context.
 
 #### Active research questions
 
-- **Hydroclimate dynamics:** How far and how fast did rain belts shift across the western United States during the last glaciation?
+- **Hydroclimate dynamics:** How far and how fast did rain belts shift across the western United States during the Pleistocene?
 - **Ice-sheet chronologies:** When did the Laurentide and Cordilleran ice sheets reach their maximum limits, and why do dating methods disagree? (Funded by WA State & USGS)
 - **Isotope geochemistry of wildfire (in development):** Can fire leave an isotopic fingerprint that survives in waters and sediments?
 
