@@ -46,7 +46,7 @@ We welcome creative, outside-the-box directions and collaborations. We are build
   </div>
   <div class="col-8 col-sm-9">
     <strong>Laila Elbaroudy</strong><br>
-    Undergraduate researcher<br>
+    Undergraduate Senior<br>
     Deglacial chronology of the Laurentide Ice Sheet on Long Island, New York. GSA Northeastern Section Undergraduate Research Grant (2026); presented at GSA Connects 2026.
   </div>
 </div>
