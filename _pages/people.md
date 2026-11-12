@@ -53,7 +53,7 @@ We welcome creative, outside-the-box directions and collaborations. We are build
 
 ### Alumni
 
-None yet. The group was founded in 2025.
+
 
 ---
 
