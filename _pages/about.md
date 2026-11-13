@@ -41,4 +41,4 @@ The LAYERS group works in Stony Brook's Facility for Isotope Research and Studen
 
 **Recent.** Carbonate U/Th ages confirm the Mono Basin excursion as the Laschamps geomagnetic excursion ([GSA Bulletin, 2026](https://doi.org/10.1130/B38358.1)).
 
-**Joining the group.** Please reach out by email if you are an undergraduate seeking research experience, a prospective M.S. or Ph.D. student, or interested in postdoctoral work. I am glad to develop postdoctoral fellowship applications with prospective postdocs. A short note on what you are curious about is the best place to start.
+**Joining the group.** Please reach out by email if you are an undergraduate seeking research experience, a prospective M.S. or Ph.D. student, or interested in postdoctoral work. A short note on what you are curious about is the best place to start. I support students and postdocs applying for external fellowships and am happy to work closely with you to build a strong research proposal. 
